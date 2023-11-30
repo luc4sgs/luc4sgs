@@ -1,6 +1,6 @@
-### Olá! Eu sou o Lucas 👋 
-4º Semestre em Análise e Desenvolvimento de Sistemas
+# Olá! Eu sou o Lucas 👋 
 #### Trabalho há aproximadamente cinco anos na área de Tecnologia da Informação. Além de minhas responsabilidades profissionais, tenho um interesse genuíno em estudar hacking e explorar os avanços da tecnologia. Busco constantemente expandir meus conhecimentos na área de T.I. e almejo crescer profissionalmente, aproveitando cada oportunidade para aprimorar minhas habilidades e contribuir para o campo em constante evolução.
+Cursando Análise e Desenvolvimento de Sistemas - 3º Semestre 📚
 #### Saiba mais sobre mim aqui 👇
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luc4sgs)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551997952533)
